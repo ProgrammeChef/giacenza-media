@@ -5,7 +5,7 @@ Demo 1             |  Demo 2
 :-------------------------:|:-------------------------:
 ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%201.png)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%202.png)
 
-Questo script, semplice e intuitivo, può essere utilizzato per assolvere questo compito seguendo le richieste che compariranno sul terminale. Saranno richieste alcune informazioni necessarie per eseguire il calcolo richiesto.
+Questo script, semplice e intuitivo, può essere utilizzato per assolvere questo compito. Guidati dal terminale, saranno richieste alcune informazioni necessarie per eseguire il calcolo richiesto.
 
 Per poter eseguire questo piccolo programma, è necessario solamente avere installato Python (versione 3, o superiore) e avere a disposizione il **file .csv** relativo ai movimenti per il conto corrente (o carta), di cui si desidera calcolare la giacenza media. Un file .csv è un piccolo documento, diffuso tra la maggior parte degli istituti di credito, per rappresentare sinteticamente una lista di movimenti. Questo file può essere scaricato accedendo all'home banking del proprio istituto di credito, specificando il periodo dal 01/01 al 31/12 per l'anno di interesse per il conto corrente (o carta) di interesse.
 
