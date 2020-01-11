@@ -1,6 +1,10 @@
 # Giacenza Media – Calcolo della giacenza media da file CSV
 Il calcolo della giacenza media è un'operazione tediosa, ma necessaria per richiedere il rilascio di documenti relativi alla propria situazione economica, come l'Indicatore della **Situazione Economica Equivalente (ISEE)**, non sempre messo a disposizione dal proprio istituto di credito.
 
+Demo 1             |  Demo 2
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%201.png)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%202.png)
+
 Questo script, semplice e intuitivo, può essere lanciato e utilizzato seguendo le richieste che compariranno sul terminale. Saranno richieste alcune informazioni necessarie per eseguire il calcolo richiesto.
 
 Per poter eseguire questo piccolo programma, è necessario solamente avere installato Python (versione 3, o superiore) e avere a disposizione il **file .csv** relativo ai movimenti per il conto corrente (o carta), di cui si desidera calcolare la giacenza media. Un file .csv è un piccolo documento, diffuso tra la maggior parte degli istituti di credito, per rappresentare sinteticamente una lista di movimenti. Questo file può essere scaricato accedendo all'home banking del proprio istituto di credito, specificando il periodo dal 01/01 al 31/12 per l'anno di interesse per il conto corrente (o carta) di interesse.
@@ -27,7 +31,3 @@ che lancerà il programma.
 Dopo aver inserito l'ultima informazione, il programma effettuerà il calcolo richiesto. Le informazioni saranno consultabili nella finestra di terminale stessa, oppure nel file di testo di output che verrà generato nella stessa cartella in cui è presente lo script.
 
 Oltre alla giacenza media verrà calcolato, per l'anno di interesse, anche il saldo finale al 31/12. Sarà inoltre possibile visualizzare il dettaglio delle giacenze giornaliere e delle entrate/uscite per ogni giorno dell'anno, come documentazione dimostrativa (in caso venisse richiesta) del calcolo stesso.
-
-Demo 1             |  Demo 2
-:-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%201.png)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%202.png)
