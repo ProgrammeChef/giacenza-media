@@ -27,3 +27,7 @@ che lancerà il programma.
 Dopo aver inserito l'ultima informazione, il programma effettuerà il calcolo richiesto. Le informazioni saranno consultabili nella finestra di terminale stessa, oppure nel file di testo di output che verrà generato nella stessa cartella in cui è presente lo script.
 
 Oltre alla giacenza media verrà calcolato, per l'anno di interesse, anche il saldo finale al 31/12. Sarà inoltre possibile visualizzare il dettaglio delle giacenze giornaliere e delle entrate/uscite per ogni giorno dell'anno, come documentazione dimostrativa (in caso venisse richiesta) del calcolo stesso.
+
+Demo 1             |  Demo 2
+:-------------------------:|:-------------------------:
+![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%201.png)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%202.png)
