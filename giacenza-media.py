@@ -5,9 +5,9 @@ import os
 
 def in_or_out(amount):
     if amount > 0:
-        return "Entrate: +" + str(amount) + " euro"
+        return "Entrate: +" + f'{amount:.2f}' + " euro"
     elif amount < 0:
-        return "Uscite: " + str(amount) + " euro"
+        return "Uscite: " + f'{amount:.2f}' + " euro"
     else:
         return "Nessun movimento"
 
@@ -21,7 +21,7 @@ def add_movements(stocks, movements, out_string):
 
     while year_start <= year_end:
         out_string += "Data: " + str(year_start) + "\n" + in_or_out(
-            movements[year_start]) + "\nGiacenza giornaliera: " + str(stocks[year_start]) + " euro"
+            movements[year_start]) + "\nGiacenza giornaliera: " + f'{stocks[year_start]:.2f}' + " euro"
         if year_start.day == 31 and year_start.month == 12:
             break
         out_string += "\n\n"
@@ -118,12 +118,14 @@ def run():
 
             if cur_date == year_start:
                 stocks[cur_date] += amount
-                movements[cur_date] = amount
+                movements[cur_date] += amount
 
         stocks[year_start] = round(stocks[year_start], 2)
+        movements[year_start] = round(movements[year_start], 2)
 
         if year_start.day == 31 and year_start.month == 12:
             break
+
         year_start += step
         stocks[year_start] = stocks[year_start - datetime.timedelta(1)]
 

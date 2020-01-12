@@ -1,0 +1,1469 @@
+----------------------------------------------------
+SALDI E GIACENZA
+----------------------------------------------------
+Saldo iniziale (al 01/01/2019): 1240.36 euro
+Saldo finale (al 31/12/2019): 1272.61 euro
+Giacenza media (nel 2019): 1245.36 euro/giorno
+
+----------------------------------------------------
+DETTAGLIO MOVIMENTI
+----------------------------------------------------
+Data: 2019-01-01
+Nessun movimento
+Giacenza giornaliera: 1240.36 euro
+
+Data: 2019-01-02
+Nessun movimento
+Giacenza giornaliera: 1240.36 euro
+
+Data: 2019-01-03
+Entrate: +0.01 euro
+Giacenza giornaliera: 1240.37 euro
+
+Data: 2019-01-04
+Nessun movimento
+Giacenza giornaliera: 1240.37 euro
+
+Data: 2019-01-05
+Entrate: +2.02 euro
+Giacenza giornaliera: 1242.39 euro
+
+Data: 2019-01-06
+Uscite: -5.40 euro
+Giacenza giornaliera: 1236.99 euro
+
+Data: 2019-01-07
+Nessun movimento
+Giacenza giornaliera: 1236.99 euro
+
+Data: 2019-01-08
+Nessun movimento
+Giacenza giornaliera: 1236.99 euro
+
+Data: 2019-01-09
+Nessun movimento
+Giacenza giornaliera: 1236.99 euro
+
+Data: 2019-01-10
+Nessun movimento
+Giacenza giornaliera: 1236.99 euro
+
+Data: 2019-01-11
+Entrate: +107.98 euro
+Giacenza giornaliera: 1344.97 euro
+
+Data: 2019-01-12
+Nessun movimento
+Giacenza giornaliera: 1344.97 euro
+
+Data: 2019-01-13
+Uscite: -12.99 euro
+Giacenza giornaliera: 1331.98 euro
+
+Data: 2019-01-14
+Nessun movimento
+Giacenza giornaliera: 1331.98 euro
+
+Data: 2019-01-15
+Uscite: -4.00 euro
+Giacenza giornaliera: 1327.98 euro
+
+Data: 2019-01-16
+Uscite: -4.00 euro
+Giacenza giornaliera: 1323.98 euro
+
+Data: 2019-01-17
+Nessun movimento
+Giacenza giornaliera: 1323.98 euro
+
+Data: 2019-01-18
+Uscite: -24.48 euro
+Giacenza giornaliera: 1299.50 euro
+
+Data: 2019-01-19
+Uscite: -7.35 euro
+Giacenza giornaliera: 1292.15 euro
+
+Data: 2019-01-20
+Uscite: -64.23 euro
+Giacenza giornaliera: 1227.92 euro
+
+Data: 2019-01-21
+Uscite: -7.35 euro
+Giacenza giornaliera: 1220.57 euro
+
+Data: 2019-01-22
+Entrate: +2.59 euro
+Giacenza giornaliera: 1223.16 euro
+
+Data: 2019-01-23
+Entrate: +1.42 euro
+Giacenza giornaliera: 1224.58 euro
+
+Data: 2019-01-24
+Entrate: +0.57 euro
+Giacenza giornaliera: 1225.15 euro
+
+Data: 2019-01-25
+Entrate: +15.00 euro
+Giacenza giornaliera: 1240.15 euro
+
+Data: 2019-01-26
+Nessun movimento
+Giacenza giornaliera: 1240.15 euro
+
+Data: 2019-01-27
+Nessun movimento
+Giacenza giornaliera: 1240.15 euro
+
+Data: 2019-01-28
+Nessun movimento
+Giacenza giornaliera: 1240.15 euro
+
+Data: 2019-01-29
+Uscite: -29.00 euro
+Giacenza giornaliera: 1211.15 euro
+
+Data: 2019-01-30
+Nessun movimento
+Giacenza giornaliera: 1211.15 euro
+
+Data: 2019-01-31
+Nessun movimento
+Giacenza giornaliera: 1211.15 euro
+
+Data: 2019-02-01
+Entrate: +42.65 euro
+Giacenza giornaliera: 1253.80 euro
+
+Data: 2019-02-02
+Nessun movimento
+Giacenza giornaliera: 1253.80 euro
+
+Data: 2019-02-03
+Nessun movimento
+Giacenza giornaliera: 1253.80 euro
+
+Data: 2019-02-04
+Entrate: +7.65 euro
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-05
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-06
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-07
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-08
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-09
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-10
+Nessun movimento
+Giacenza giornaliera: 1261.45 euro
+
+Data: 2019-02-11
+Entrate: +64.23 euro
+Giacenza giornaliera: 1325.68 euro
+
+Data: 2019-02-12
+Uscite: -1.09 euro
+Giacenza giornaliera: 1324.59 euro
+
+Data: 2019-02-13
+Uscite: -106.44 euro
+Giacenza giornaliera: 1218.15 euro
+
+Data: 2019-02-14
+Nessun movimento
+Giacenza giornaliera: 1218.15 euro
+
+Data: 2019-02-15
+Uscite: -6.00 euro
+Giacenza giornaliera: 1212.15 euro
+
+Data: 2019-02-16
+Entrate: +229.09 euro
+Giacenza giornaliera: 1441.24 euro
+
+Data: 2019-02-17
+Uscite: -121.66 euro
+Giacenza giornaliera: 1319.58 euro
+
+Data: 2019-02-18
+Nessun movimento
+Giacenza giornaliera: 1319.58 euro
+
+Data: 2019-02-19
+Nessun movimento
+Giacenza giornaliera: 1319.58 euro
+
+Data: 2019-02-20
+Nessun movimento
+Giacenza giornaliera: 1319.58 euro
+
+Data: 2019-02-21
+Nessun movimento
+Giacenza giornaliera: 1319.58 euro
+
+Data: 2019-02-22
+Uscite: -5.00 euro
+Giacenza giornaliera: 1314.58 euro
+
+Data: 2019-02-23
+Uscite: -50.00 euro
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-02-24
+Nessun movimento
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-02-25
+Nessun movimento
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-02-26
+Nessun movimento
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-02-27
+Nessun movimento
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-02-28
+Nessun movimento
+Giacenza giornaliera: 1264.58 euro
+
+Data: 2019-03-01
+Uscite: -4.00 euro
+Giacenza giornaliera: 1260.58 euro
+
+Data: 2019-03-02
+Uscite: -7.35 euro
+Giacenza giornaliera: 1253.23 euro
+
+Data: 2019-03-03
+Uscite: -7.35 euro
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-04
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-05
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-06
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-07
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-08
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-09
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-10
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-11
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-12
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-13
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-14
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-15
+Nessun movimento
+Giacenza giornaliera: 1245.88 euro
+
+Data: 2019-03-16
+Uscite: -7.35 euro
+Giacenza giornaliera: 1238.53 euro
+
+Data: 2019-03-17
+Uscite: -7.35 euro
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-18
+Nessun movimento
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-19
+Nessun movimento
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-20
+Nessun movimento
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-21
+Nessun movimento
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-22
+Nessun movimento
+Giacenza giornaliera: 1231.18 euro
+
+Data: 2019-03-23
+Uscite: -7.35 euro
+Giacenza giornaliera: 1223.83 euro
+
+Data: 2019-03-24
+Uscite: -7.35 euro
+Giacenza giornaliera: 1216.48 euro
+
+Data: 2019-03-25
+Nessun movimento
+Giacenza giornaliera: 1216.48 euro
+
+Data: 2019-03-26
+Uscite: -5.40 euro
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-03-27
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-03-28
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-03-29
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-03-30
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-03-31
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-04-01
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-04-02
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-04-03
+Entrate: +41.20 euro
+Giacenza giornaliera: 1252.28 euro
+
+Data: 2019-04-04
+Uscite: -8.79 euro
+Giacenza giornaliera: 1243.49 euro
+
+Data: 2019-04-05
+Nessun movimento
+Giacenza giornaliera: 1243.49 euro
+
+Data: 2019-04-06
+Nessun movimento
+Giacenza giornaliera: 1243.49 euro
+
+Data: 2019-04-07
+Uscite: -7.35 euro
+Giacenza giornaliera: 1236.14 euro
+
+Data: 2019-04-08
+Nessun movimento
+Giacenza giornaliera: 1236.14 euro
+
+Data: 2019-04-09
+Uscite: -5.40 euro
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-10
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-11
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-12
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-13
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-14
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-15
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-16
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-17
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-18
+Nessun movimento
+Giacenza giornaliera: 1230.74 euro
+
+Data: 2019-04-19
+Uscite: -3.80 euro
+Giacenza giornaliera: 1226.94 euro
+
+Data: 2019-04-20
+Entrate: +20.70 euro
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-21
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-22
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-23
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-24
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-25
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-26
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-27
+Nessun movimento
+Giacenza giornaliera: 1247.64 euro
+
+Data: 2019-04-28
+Uscite: -7.35 euro
+Giacenza giornaliera: 1240.29 euro
+
+Data: 2019-04-29
+Uscite: -4.60 euro
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-04-30
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-01
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-02
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-03
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-04
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-05
+Nessun movimento
+Giacenza giornaliera: 1235.69 euro
+
+Data: 2019-05-06
+Entrate: +74.00 euro
+Giacenza giornaliera: 1309.69 euro
+
+Data: 2019-05-07
+Nessun movimento
+Giacenza giornaliera: 1309.69 euro
+
+Data: 2019-05-08
+Entrate: +1.01 euro
+Giacenza giornaliera: 1310.70 euro
+
+Data: 2019-05-09
+Nessun movimento
+Giacenza giornaliera: 1310.70 euro
+
+Data: 2019-05-10
+Nessun movimento
+Giacenza giornaliera: 1310.70 euro
+
+Data: 2019-05-11
+Nessun movimento
+Giacenza giornaliera: 1310.70 euro
+
+Data: 2019-05-12
+Uscite: -7.35 euro
+Giacenza giornaliera: 1303.35 euro
+
+Data: 2019-05-13
+Nessun movimento
+Giacenza giornaliera: 1303.35 euro
+
+Data: 2019-05-14
+Uscite: -7.35 euro
+Giacenza giornaliera: 1296.00 euro
+
+Data: 2019-05-15
+Nessun movimento
+Giacenza giornaliera: 1296.00 euro
+
+Data: 2019-05-16
+Uscite: -60.98 euro
+Giacenza giornaliera: 1235.02 euro
+
+Data: 2019-05-17
+Nessun movimento
+Giacenza giornaliera: 1235.02 euro
+
+Data: 2019-05-18
+Uscite: -3.80 euro
+Giacenza giornaliera: 1231.22 euro
+
+Data: 2019-05-19
+Nessun movimento
+Giacenza giornaliera: 1231.22 euro
+
+Data: 2019-05-20
+Entrate: +58.99 euro
+Giacenza giornaliera: 1290.21 euro
+
+Data: 2019-05-21
+Nessun movimento
+Giacenza giornaliera: 1290.21 euro
+
+Data: 2019-05-22
+Nessun movimento
+Giacenza giornaliera: 1290.21 euro
+
+Data: 2019-05-23
+Nessun movimento
+Giacenza giornaliera: 1290.21 euro
+
+Data: 2019-05-24
+Nessun movimento
+Giacenza giornaliera: 1290.21 euro
+
+Data: 2019-05-25
+Uscite: -7.35 euro
+Giacenza giornaliera: 1282.86 euro
+
+Data: 2019-05-26
+Nessun movimento
+Giacenza giornaliera: 1282.86 euro
+
+Data: 2019-05-27
+Nessun movimento
+Giacenza giornaliera: 1282.86 euro
+
+Data: 2019-05-28
+Nessun movimento
+Giacenza giornaliera: 1282.86 euro
+
+Data: 2019-05-29
+Nessun movimento
+Giacenza giornaliera: 1282.86 euro
+
+Data: 2019-05-30
+Uscite: -0.99 euro
+Giacenza giornaliera: 1281.87 euro
+
+Data: 2019-05-31
+Nessun movimento
+Giacenza giornaliera: 1281.87 euro
+
+Data: 2019-06-01
+Nessun movimento
+Giacenza giornaliera: 1281.87 euro
+
+Data: 2019-06-02
+Nessun movimento
+Giacenza giornaliera: 1281.87 euro
+
+Data: 2019-06-03
+Nessun movimento
+Giacenza giornaliera: 1281.87 euro
+
+Data: 2019-06-04
+Uscite: -25.00 euro
+Giacenza giornaliera: 1256.87 euro
+
+Data: 2019-06-05
+Nessun movimento
+Giacenza giornaliera: 1256.87 euro
+
+Data: 2019-06-06
+Uscite: -15.00 euro
+Giacenza giornaliera: 1241.87 euro
+
+Data: 2019-06-07
+Nessun movimento
+Giacenza giornaliera: 1241.87 euro
+
+Data: 2019-06-08
+Nessun movimento
+Giacenza giornaliera: 1241.87 euro
+
+Data: 2019-06-09
+Nessun movimento
+Giacenza giornaliera: 1241.87 euro
+
+Data: 2019-06-10
+Entrate: +20.00 euro
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-11
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-12
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-13
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-14
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-15
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-16
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-17
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-18
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-19
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-20
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-21
+Nessun movimento
+Giacenza giornaliera: 1261.87 euro
+
+Data: 2019-06-22
+Uscite: -7.35 euro
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-23
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-24
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-25
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-26
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-27
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-28
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-29
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-06-30
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-07-01
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-07-02
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-07-03
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-07-04
+Nessun movimento
+Giacenza giornaliera: 1254.52 euro
+
+Data: 2019-07-05
+Uscite: -7.35 euro
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-06
+Nessun movimento
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-07
+Nessun movimento
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-08
+Nessun movimento
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-09
+Nessun movimento
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-10
+Nessun movimento
+Giacenza giornaliera: 1247.17 euro
+
+Data: 2019-07-11
+Uscite: -5.00 euro
+Giacenza giornaliera: 1242.17 euro
+
+Data: 2019-07-12
+Uscite: -7.35 euro
+Giacenza giornaliera: 1234.82 euro
+
+Data: 2019-07-13
+Nessun movimento
+Giacenza giornaliera: 1234.82 euro
+
+Data: 2019-07-14
+Nessun movimento
+Giacenza giornaliera: 1234.82 euro
+
+Data: 2019-07-15
+Nessun movimento
+Giacenza giornaliera: 1234.82 euro
+
+Data: 2019-07-16
+Nessun movimento
+Giacenza giornaliera: 1234.82 euro
+
+Data: 2019-07-17
+Uscite: -7.35 euro
+Giacenza giornaliera: 1227.47 euro
+
+Data: 2019-07-18
+Uscite: -5.00 euro
+Giacenza giornaliera: 1222.47 euro
+
+Data: 2019-07-19
+Uscite: -3.05 euro
+Giacenza giornaliera: 1219.42 euro
+
+Data: 2019-07-20
+Nessun movimento
+Giacenza giornaliera: 1219.42 euro
+
+Data: 2019-07-21
+Uscite: -7.35 euro
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-22
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-23
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-24
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-25
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-26
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-27
+Nessun movimento
+Giacenza giornaliera: 1212.07 euro
+
+Data: 2019-07-28
+Uscite: -0.99 euro
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-07-29
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-07-30
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-07-31
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-08-01
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-08-02
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-08-03
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-08-04
+Nessun movimento
+Giacenza giornaliera: 1211.08 euro
+
+Data: 2019-08-05
+Entrate: +0.64 euro
+Giacenza giornaliera: 1211.72 euro
+
+Data: 2019-08-06
+Nessun movimento
+Giacenza giornaliera: 1211.72 euro
+
+Data: 2019-08-07
+Nessun movimento
+Giacenza giornaliera: 1211.72 euro
+
+Data: 2019-08-08
+Nessun movimento
+Giacenza giornaliera: 1211.72 euro
+
+Data: 2019-08-09
+Entrate: +70.00 euro
+Giacenza giornaliera: 1281.72 euro
+
+Data: 2019-08-10
+Uscite: -15.98 euro
+Giacenza giornaliera: 1265.74 euro
+
+Data: 2019-08-11
+Uscite: -27.98 euro
+Giacenza giornaliera: 1237.76 euro
+
+Data: 2019-08-12
+Nessun movimento
+Giacenza giornaliera: 1237.76 euro
+
+Data: 2019-08-13
+Uscite: -0.99 euro
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-14
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-15
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-16
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-17
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-18
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-19
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-20
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-21
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-22
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-23
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-24
+Nessun movimento
+Giacenza giornaliera: 1236.77 euro
+
+Data: 2019-08-25
+Uscite: -7.35 euro
+Giacenza giornaliera: 1229.42 euro
+
+Data: 2019-08-26
+Nessun movimento
+Giacenza giornaliera: 1229.42 euro
+
+Data: 2019-08-27
+Nessun movimento
+Giacenza giornaliera: 1229.42 euro
+
+Data: 2019-08-28
+Uscite: -11.99 euro
+Giacenza giornaliera: 1217.43 euro
+
+Data: 2019-08-29
+Nessun movimento
+Giacenza giornaliera: 1217.43 euro
+
+Data: 2019-08-30
+Uscite: -7.35 euro
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-08-31
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-01
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-02
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-03
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-04
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-05
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-06
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-07
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-08
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-09
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-10
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-11
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-12
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-13
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-14
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-15
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-16
+Nessun movimento
+Giacenza giornaliera: 1210.08 euro
+
+Data: 2019-09-17
+Entrate: +25.00 euro
+Giacenza giornaliera: 1235.08 euro
+
+Data: 2019-09-18
+Uscite: -15.98 euro
+Giacenza giornaliera: 1219.10 euro
+
+Data: 2019-09-19
+Uscite: -5.00 euro
+Giacenza giornaliera: 1214.10 euro
+
+Data: 2019-09-20
+Nessun movimento
+Giacenza giornaliera: 1214.10 euro
+
+Data: 2019-09-21
+Nessun movimento
+Giacenza giornaliera: 1214.10 euro
+
+Data: 2019-09-22
+Nessun movimento
+Giacenza giornaliera: 1214.10 euro
+
+Data: 2019-09-23
+Entrate: +19.00 euro
+Giacenza giornaliera: 1233.10 euro
+
+Data: 2019-09-24
+Nessun movimento
+Giacenza giornaliera: 1233.10 euro
+
+Data: 2019-09-25
+Nessun movimento
+Giacenza giornaliera: 1233.10 euro
+
+Data: 2019-09-26
+Nessun movimento
+Giacenza giornaliera: 1233.10 euro
+
+Data: 2019-09-27
+Nessun movimento
+Giacenza giornaliera: 1233.10 euro
+
+Data: 2019-09-28
+Uscite: -0.99 euro
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-09-29
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-09-30
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-01
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-02
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-03
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-04
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-05
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-06
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-07
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-08
+Nessun movimento
+Giacenza giornaliera: 1232.11 euro
+
+Data: 2019-10-09
+Uscite: -6.50 euro
+Giacenza giornaliera: 1225.61 euro
+
+Data: 2019-10-10
+Nessun movimento
+Giacenza giornaliera: 1225.61 euro
+
+Data: 2019-10-11
+Nessun movimento
+Giacenza giornaliera: 1225.61 euro
+
+Data: 2019-10-12
+Uscite: -10.00 euro
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-13
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-14
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-15
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-16
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-17
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-18
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-19
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-20
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-21
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-22
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-23
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-24
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-25
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-26
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-27
+Nessun movimento
+Giacenza giornaliera: 1215.61 euro
+
+Data: 2019-10-28
+Uscite: -0.99 euro
+Giacenza giornaliera: 1214.62 euro
+
+Data: 2019-10-29
+Nessun movimento
+Giacenza giornaliera: 1214.62 euro
+
+Data: 2019-10-30
+Nessun movimento
+Giacenza giornaliera: 1214.62 euro
+
+Data: 2019-10-31
+Uscite: -5.00 euro
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-01
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-02
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-03
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-04
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-05
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-06
+Nessun movimento
+Giacenza giornaliera: 1209.62 euro
+
+Data: 2019-11-07
+Entrate: +0.78 euro
+Giacenza giornaliera: 1210.40 euro
+
+Data: 2019-11-08
+Nessun movimento
+Giacenza giornaliera: 1210.40 euro
+
+Data: 2019-11-09
+Nessun movimento
+Giacenza giornaliera: 1210.40 euro
+
+Data: 2019-11-10
+Nessun movimento
+Giacenza giornaliera: 1210.40 euro
+
+Data: 2019-11-11
+Entrate: +1.05 euro
+Giacenza giornaliera: 1211.45 euro
+
+Data: 2019-11-12
+Nessun movimento
+Giacenza giornaliera: 1211.45 euro
+
+Data: 2019-11-13
+Entrate: +28.40 euro
+Giacenza giornaliera: 1239.85 euro
+
+Data: 2019-11-14
+Uscite: -28.47 euro
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-15
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-16
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-17
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-18
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-19
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-20
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-21
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-22
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-23
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-24
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-25
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-26
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-27
+Nessun movimento
+Giacenza giornaliera: 1211.38 euro
+
+Data: 2019-11-28
+Uscite: -1.00 euro
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-11-29
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-11-30
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-01
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-02
+Entrate: +130.92 euro
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-03
+Nessun movimento
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-04
+Uscite: -130.92 euro
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-05
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-06
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-07
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-08
+Nessun movimento
+Giacenza giornaliera: 1210.38 euro
+
+Data: 2019-12-09
+Entrate: +130.92 euro
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-10
+Nessun movimento
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-11
+Nessun movimento
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-12
+Nessun movimento
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-13
+Nessun movimento
+Giacenza giornaliera: 1341.30 euro
+
+Data: 2019-12-14
+Uscite: -23.92 euro
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-15
+Nessun movimento
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-16
+Nessun movimento
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-17
+Nessun movimento
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-18
+Nessun movimento
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-19
+Nessun movimento
+Giacenza giornaliera: 1317.38 euro
+
+Data: 2019-12-20
+Uscite: -3.80 euro
+Giacenza giornaliera: 1313.58 euro
+
+Data: 2019-12-21
+Uscite: -10.00 euro
+Giacenza giornaliera: 1303.58 euro
+
+Data: 2019-12-22
+Nessun movimento
+Giacenza giornaliera: 1303.58 euro
+
+Data: 2019-12-23
+Nessun movimento
+Giacenza giornaliera: 1303.58 euro
+
+Data: 2019-12-24
+Nessun movimento
+Giacenza giornaliera: 1303.58 euro
+
+Data: 2019-12-25
+Uscite: -17.98 euro
+Giacenza giornaliera: 1285.60 euro
+
+Data: 2019-12-26
+Nessun movimento
+Giacenza giornaliera: 1285.60 euro
+
+Data: 2019-12-27
+Uscite: -12.00 euro
+Giacenza giornaliera: 1273.60 euro
+
+Data: 2019-12-28
+Uscite: -0.99 euro
+Giacenza giornaliera: 1272.61 euro
+
+Data: 2019-12-29
+Nessun movimento
+Giacenza giornaliera: 1272.61 euro
+
+Data: 2019-12-30
+Nessun movimento
+Giacenza giornaliera: 1272.61 euro
+
+Data: 2019-12-31
+Nessun movimento
+Giacenza giornaliera: 1272.61 euro
