@@ -3,7 +3,7 @@ Il calcolo della giacenza media è un'operazione tediosa, ma necessaria per rich
 
 Demo 1             |  Demo 2
 :-------------------------:|:-------------------------:
-![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%201.png)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/Demo%202.png)
+![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/demo/demo_1.jpg)  |  ![](https://raw.githubusercontent.com/bobcorn/giacenza-media/master/demo/demo_2.jpg)
 
 Questo script, semplice e intuitivo, può essere utilizzato per assolvere questo compito. Guidati dal terminale, saranno richieste alcune informazioni necessarie per eseguire il calcolo richiesto.
 
